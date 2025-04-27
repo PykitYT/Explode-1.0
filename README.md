@@ -31,3 +31,19 @@ explode -addin list
 import os
 print("List of addins for explode:", os.listdir("./addins:))
 ```
+---
+Команда:
+```
+explode
+```
+Вывод:
+
+Welcome to explode.exe!
+Commands:
+    -run Run python code (1 line)
+    -newfile Create file with text (1 line)
+    -readfile Read file
+    -addin Run functions from addins/
+
+---
+# Спасибо, то что скачали Explode!
