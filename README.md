@@ -11,3 +11,23 @@
 ![image](https://github.com/user-attachments/assets/a3295aa3-c818-4518-932f-9ff381afb88b)
 # Что такое explode?
 Explode - программа для создания функцей для терминала. Можно работать с файлами, не зная batch. Все просто!
+# Пример как пользаватся Explode
+Команда:
+```
+explode -addin HACKED_BIOS
+```
+
+![image](https://github.com/user-attachments/assets/05b48571-eec9-461f-8289-0e9613f82610)
+
+
+---
+Команда:
+```
+explode -addin list
+```
+Показавает функции из addins.
+Как работает list:
+```
+import os
+print("List of addins for explode:", os.listdir("./addins:))
+```
