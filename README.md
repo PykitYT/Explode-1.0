@@ -53,5 +53,19 @@ Commands:
 ```
 
 ---
+# Explode-installer
+Установка:
 
+Скачайте файл explode-installer.exe
+
+Добавьте в explode/
+
+Как пользаватся:
+скачайте нужный архив 
+и вот следушие команды который вам нужно ввести:
+![image](https://github.com/user-attachments/assets/351c57f0-6a02-46fd-8f29-da290073d41e)
+теперь вы можете открыть через
+```
+explode -addin <имя>
+```
 # Спасибо, что скачали Explode!
